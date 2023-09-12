@@ -4,4 +4,6 @@ NPM     : 2201233210
 
 Kelas   : PBP B
 
-jurusan : SI
+Hobi    : Tidur
+
+Jurusan : Ilmu Sistem Informasi Komputer
